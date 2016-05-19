@@ -56,6 +56,19 @@ ul{
 	    }
 	}
 }
+.rojo{
+	background-color:#8D161C;
+	color:white;
+	li{
+		background-color:$rojo;
+		padding:5px;
+		border-radius:5px;
+		a{
+			color:white;
+			font-size: 15px;
+		}
+	}
+}
 
 img{
 	width:100%;
