@@ -44,15 +44,32 @@ ul {
       text-align: center; }
 
 .rojo {
-  background-color: #8D161C;
-  color: white; }
+  background-color: #D24042;
+  color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center; }
+  .rojo span {
+    color: #8D161C;
+    font-size: 10px; }
   .rojo li {
-    background-color: #D24042;
-    padding: 5px;
-    border-radius: 5px; }
+    padding: 5px; }
     .rojo li a {
       color: white;
-      font-size: 15px; }
+      font-size: 10px; }
+
+.plomo {
+  background-color: #CED2D2;
+  color: #424045;
+  text-align: center; }
+  .plomo a {
+    font-size: 12px; }
+  .plomo .negro {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    height: auto; }
 
 img {
   width: 100%; }

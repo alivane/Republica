@@ -57,16 +57,36 @@ ul{
 	}
 }
 .rojo{
-	background-color:#8D161C;
+	background-color:$rojo;
 	color:white;
+	border-radius:5px;
+	margin-top:20px;
+	text-align:center;
+	span{
+		color:#8D161C;
+		font-size: 10px;
+	}
 	li{
-		background-color:$rojo;
 		padding:5px;
-		border-radius:5px;
 		a{
 			color:white;
-			font-size: 15px;
+			font-size: 10px;
 		}
+	}
+}
+.plomo{
+	background-color:#CED2D2;
+	color:#424045;
+	text-align:center;
+	a{
+		font-size: 12px;
+	}
+	.negro{
+		background-color:black;
+		color:white;
+		text-align:center;
+		padding:5px;
+		height: auto;
 	}
 }
 
