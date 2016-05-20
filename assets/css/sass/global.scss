@@ -87,6 +87,24 @@ ul{
 		height: auto;
 	}
 }
+footer{
+	background-color:$grey-claro;
+	padding:20px 0px;
+	span{
+		color:#888C8C;
+	}
+	p{
+		font-size: 10px;
+		color:#888C8C;
+	}
+	ul{
+		text-align:center;
+		li{
+			color:#888C8C;
+			font-size: 12px;
+		}
+	}
+}
 
 img{
 	width:100%;

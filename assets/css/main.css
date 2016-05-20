@@ -77,6 +77,20 @@ ul {
     text-align: center;
     height: auto; }
 
+footer {
+  background-color: #CED2D2;
+  padding: 20px 0px; }
+  footer span {
+    color: #888C8C; }
+  footer p {
+    font-size: 10px;
+    color: #888C8C; }
+  footer ul {
+    text-align: center; }
+    footer ul li {
+      color: #888C8C;
+      font-size: 12px; }
+
 img {
   width: 100%; }
 
