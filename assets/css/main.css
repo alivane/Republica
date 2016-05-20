@@ -80,4 +80,36 @@ ul {
 img {
   width: 100%; }
 
+.cuadros {
+  margin: 0px; }
+  .cuadros .cuadro {
+    border: 1px solid #888C8C;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 200px; }
+    .cuadros .cuadro .blogc {
+      background-color: #CED2D2;
+      padding: 10px;
+      text-align: left;
+      margin-top: 47px; }
+      .cuadros .cuadro .blogc img {
+        padding: 5px;
+        width: 80%;
+        background-color: white; }
+  .cuadros .cuadro1 {
+    border: 1px solid #888C8C;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 200px; }
+    .cuadros .cuadro1 .blogc {
+      background-color: #CED2D2;
+      padding: 10px;
+      text-align: left; }
+      .cuadros .cuadro1 .blogc img {
+        padding: 5px;
+        width: 80%;
+        background-color: white; }
+
 /*# sourceMappingURL=main.css.map */

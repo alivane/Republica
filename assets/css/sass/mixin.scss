@@ -3,3 +3,10 @@
 	padding:$pdg;
 	color:$clr;
 }
+@mixin cuadro{
+	border:1px solid #888C8C;
+	text-align:center;
+	padding:10px;
+	margin-bottom:10px;
+	height:200px;
+}
