@@ -1,0 +1,41 @@
+/*home*/
+/*titular*/
+h1{
+	font-size:3em;
+}
+.subtitulo{
+	a{
+		text-decoration: none;
+		margin-left: 20px;
+		color: $gray;
+	}
+	ul{
+		display: inline-block;
+	}
+	li{
+		display: inline-block;
+		margin-right: 5px;
+		line-height: 1;
+	}
+}
+/*titular*/
+/*principal*/
+
+
+.principal{
+	position: relative;		
+	width: 100%;
+}
+.secundario{
+	position: relative;
+	width: 100%;
+}
+/*
+.fotoo a{
+	position: absolute;
+	left: 10%;
+	width: 80%;   
+}
+
+/*col-md-6 col-xs-12
+col-md-12 col-sm-12 col-xs-12*/
