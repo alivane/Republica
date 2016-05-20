@@ -1,3 +1,7 @@
+header {
+  background-color: #CED2D2;
+  padding: 10px 0px; }
+
 .barner {
   margin-bottom: 10px; }
 
@@ -36,8 +40,8 @@ ul {
         text-decoration: none; }
     ul li .botons {
       background-color: #D24042;
-      color: white;
       padding: 7px;
+      color: white;
       border-radius: 5px; }
     ul li input {
       border: 0px;
@@ -45,6 +49,7 @@ ul {
 
 .rojo {
   background-color: #D24042;
+  padding: 0px;
   color: white;
   border-radius: 5px;
   margin-top: 20px;
@@ -60,15 +65,16 @@ ul {
 
 .plomo {
   background-color: #CED2D2;
+  padding: 0px;
   color: #424045;
   text-align: center; }
   .plomo a {
     font-size: 12px; }
   .plomo .negro {
     background-color: black;
+    padding: 5px;
     color: white;
     text-align: center;
-    padding: 5px;
     height: auto; }
 
 img {

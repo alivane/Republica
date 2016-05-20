@@ -1,0 +1,5 @@
+@mixin enlace($bckg,$pdg,$clr){
+	background-color:$bckg;
+	padding:$pdg;
+	color:$clr;
+}

@@ -1,3 +1,7 @@
+header{
+	background-color:$grey-claro;
+	padding:10px 0px;
+}
 .barner{
 	margin-bottom:10px;
 }
@@ -45,9 +49,7 @@ ul{
 	    	}
 	    }
 	    .botons{
-	    	background-color:$rojo;
-	    	color:white;
-	    	padding: 7px;
+	    	@include enlace($rojo,7px,white);
 	    	border-radius: 5px;
 	    }
 	    input{
@@ -57,8 +59,7 @@ ul{
 	}
 }
 .rojo{
-	background-color:$rojo;
-	color:white;
+	@include enlace($rojo,0px,white);
 	border-radius:5px;
 	margin-top:20px;
 	text-align:center;
@@ -75,17 +76,14 @@ ul{
 	}
 }
 .plomo{
-	background-color:#CED2D2;
-	color:#424045;
+	@include enlace($grey-claro,0px,#424045);
 	text-align:center;
 	a{
 		font-size: 12px;
 	}
 	.negro{
-		background-color:black;
-		color:white;
+		@include enlace(black,5px,white);
 		text-align:center;
-		padding:5px;
 		height: auto;
 	}
 }
