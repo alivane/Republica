@@ -103,13 +103,15 @@ img {
     margin-bottom: 10px;
     height: 200px; }
     .cuadros .cuadro .blogc {
+      margin-top: 47px;
+      font-size: 10px;
       background-color: #CED2D2;
       padding: 10px;
       text-align: left;
-      margin-top: 47px; }
+      font-size: 10px; }
       .cuadros .cuadro .blogc img {
         padding: 5px;
-        width: 80%;
+        height: 60px;
         background-color: white; }
   .cuadros .cuadro1 {
     border: 1px solid #888C8C;
@@ -120,10 +122,51 @@ img {
     .cuadros .cuadro1 .blogc {
       background-color: #CED2D2;
       padding: 10px;
-      text-align: left; }
+      text-align: left;
+      font-size: 10px; }
       .cuadros .cuadro1 .blogc img {
         padding: 5px;
-        width: 80%;
+        height: 60px;
         background-color: white; }
+
+.boton {
+  background-color: #D24042;
+  text-align: center;
+  height: auto;
+  padding: 5px;
+  width: 80%;
+  margin: 0 auto; }
+  .boton a {
+    text-decoration: none;
+    color: white; }
+  .boton:hover {
+    background-color: #888C8C;
+    color: black;
+    margin-top: 10px; }
+
+.rojo1 {
+  background-color: #D24042;
+  padding: 7px;
+  color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+  height: 45px;
+  margin-bottom: 20px; }
+  .rojo1 .rojoo {
+    background-color: #5A0A07;
+    padding: 5px;
+    border-radius: 10px; }
+  .rojo1 li {
+    padding: 5px;
+    margin-left: 12px;
+    margin-right: 12px; }
+    .rojo1 li a {
+      color: white;
+      font-size: 15px; }
+    .rojo1 li:hover {
+      background-color: #FF1914;
+      border-radius: 10px;
+      padding: 5px; }
 
 /*# sourceMappingURL=main.css.map */

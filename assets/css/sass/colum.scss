@@ -1,0 +1,45 @@
+.boton{
+	background-color:$rojo;
+	text-align:center;
+	height:auto;
+	padding:5px;
+	width:80%;
+	margin:0 auto;
+	a{
+		text-decoration:none;
+		color:white;
+	}
+	&:hover{
+		background-color:#888C8C;
+		color:black;
+		margin-top: 10px;
+	}
+}
+.rojo1{
+	@include enlace($rojo,7px,white);
+	border-radius:5px;
+	margin-top:20px;
+	text-align:center;
+	height:45px;
+	margin-bottom:20px;
+	.rojoo{
+			background-color:#5A0A07;
+			padding:5px;
+			border-radius:10px;
+		}
+	li{
+		padding:5px;
+		margin-left:12px;
+		margin-right:12px;
+		
+		a{
+			color:white;
+			font-size: 15px;
+		}
+		&:hover{
+			background-color:#FF1914;
+			border-radius:10px;
+			padding:5px;
+		}
+	}
+}

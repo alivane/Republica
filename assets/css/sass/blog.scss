@@ -3,28 +3,15 @@
 	.cuadro{
 		@include cuadro();
 		.blogc{
-			background-color: $grey-claro;
-			padding:10px;
-			text-align: left;
 			margin-top:47px;
-			img{
-				padding:5px;
-				width: 80%;
-				background-color:white;
-			}
+			font-size: 10px;
+			@include blog();
 		}
 	}
 	.cuadro1{
 		@include cuadro();
 		.blogc{
-			background-color: $grey-claro;
-			padding:10px;
-			text-align: left;
-			img{
-				padding:5px;
-				width: 80%;
-				background-color:white;
-			}
+			@include blog();
 		}
 	}
 }

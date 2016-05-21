@@ -10,3 +10,14 @@
 	margin-bottom:10px;
 	height:200px;
 }
+@mixin blog{
+			background-color: $grey-claro;
+			padding:10px;
+			text-align: left;
+			font-size: 10px;
+			img{
+				padding:5px;
+				height: 60px;
+				background-color:white;
+			}
+}
