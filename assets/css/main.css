@@ -83,7 +83,7 @@ footer {
   footer span {
     color: #888C8C; }
   footer p {
-    font-size: 10px;
+    font-size: 13px;
     color: #888C8C; }
   footer ul {
     text-align: center; }
@@ -171,14 +171,17 @@ img {
 
 .plomo1 {
   margin-bottom: 10px;
-  font-size: 10px;
+  font-size: 8px;
+  height: 90px;
   background-color: #CED2D2;
   padding: 10px;
   text-align: left;
   font-size: 10px; }
   .plomo1 p {
-    font-size: 16px;
+    font-size: 11px;
     color: #515559; }
+  .plomo1 h5 {
+    font-size: 10px; }
   .plomo1 img {
     padding: 5px;
     height: 60px;
