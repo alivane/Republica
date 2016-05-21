@@ -43,3 +43,16 @@
 		}
 	}
 }
+.plomo1{	
+			margin-bottom:10px;
+			font-size: 10px;
+			p{
+				font-size: 16px;
+				color:#515559;
+			}
+			@include blog();
+			&:hover{
+				background-color:#F2FAF1;
+				border:1px solid #D0CED6;
+			}
+		}

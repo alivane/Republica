@@ -169,4 +169,22 @@ img {
       border-radius: 10px;
       padding: 5px; }
 
+.plomo1 {
+  margin-bottom: 10px;
+  font-size: 10px;
+  background-color: #CED2D2;
+  padding: 10px;
+  text-align: left;
+  font-size: 10px; }
+  .plomo1 p {
+    font-size: 16px;
+    color: #515559; }
+  .plomo1 img {
+    padding: 5px;
+    height: 60px;
+    background-color: white; }
+  .plomo1:hover {
+    background-color: #F2FAF1;
+    border: 1px solid #D0CED6; }
+
 /*# sourceMappingURL=main.css.map */
