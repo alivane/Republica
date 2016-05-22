@@ -225,4 +225,22 @@ h5 {
   width: 100px;
   height: 150px; }
 
+/*contactenos*/
+.min {
+  font-size: 13px; }
+
+.form-horizontal, .destin {
+  margin-top: 30px; }
+
+.checkbox {
+  font-size: 15px; }
+
+.bgb {
+  background-color: #E6E6E6; }
+
+.boton {
+  margin-left: 270px;
+  background-color: black;
+  color: white; }
+
 /*# sourceMappingURL=main.css.map */
