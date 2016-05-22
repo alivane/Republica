@@ -69,14 +69,15 @@ h1 {
   padding: 5px 0px;
   border: 1px solid #E6E6E6;
   height: 330px; }
-  .cuadro .red {
-    color: red; }
   .cuadro .sub {
     position: relative;
     width: 90%;
     bottom: 90;
     left: 10px;
     text-shadow: 1px 2px black; }
+
+.red {
+  color: red; }
 
 /*imagenes noticias*/
 .img4 {
@@ -103,5 +104,124 @@ h1 {
 /*imagen peluqueria*/
 .img5 {
   height: 660px; }
+
+/*seccion ultimas noticias*/
+/*ultimasnoticias*/
+h5 {
+  color: #A4A4A4; }
+
+.articulo {
+  border-bottom: 1px solid #A4A4A4;
+  margin-bottom: 20px; }
+  .articulo p {
+    font-size: 12px; }
+  .articulo h4 {
+    font-weight: bold; }
+  .articulo .texto {
+    font-size: 14px; }
+
+/*redes sociales */
+.subtitulo2 {
+  margin-top: 20px;
+  margin-left: -40px; }
+  .subtitulo2 a {
+    text-decoration: none;
+    color: gray; }
+  .subtitulo2 ul {
+    display: inline-block; }
+  .subtitulo2 li {
+    display: inline-block;
+    margin-right: 8px;
+    line-height: 1; }
+  .subtitulo2 .fa {
+    color: red;
+    font-size: 20px; }
+
+.img6 {
+  width: 200px;
+  height: 140px; }
+
+/*inicio columna2 */
+/*suscribete */
+.suscribete {
+  background-color: #E6E6E6;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+/*aweita */
+.aweita {
+  border: 1px solid black;
+  padding: 10px;
+  padding-left: 30px; }
+  .aweita p {
+    font-weight: bold;
+    font-size: 12px; }
+  .aweita span {
+    color: purple; }
+
+/*fotos destacadas */
+.destacadas {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+  .destacadas p {
+    font-weight: bold;
+    font-size: 12px; }
+
+.img77 {
+  border: 2px solid gray;
+  width: 100%;
+  height: 160px; }
+
+.img7 {
+  border: 2px solid gray;
+  width: 100%; }
+
+.lin {
+  border-bottom: 1px solid #E6E6E6; }
+
+/*especiales */
+.especiales {
+  margin-bottom: 30px; }
+
+.imag8 {
+  width: 100%; }
+
+.subtitulo3 {
+  margin-bottom: 30px; }
+  .subtitulo3 p {
+    padding: 5px;
+    background-color: whitesmoke;
+    width: 70%;
+    margin-left: 50px; }
+
+/*carlincatura*/
+/*nuestros blogueros*/
+.blog a {
+  text-decoration: none;
+  color: black; }
+
+/*edicion impresa*/
+.edicion {
+  margin-bottom: 30px; }
+
+/*infografias*/
+.infografias {
+  margin-bottom: 30px; }
+  .infografias p {
+    padding: 5px;
+    background-color: whitesmoke;
+    width: 70%;
+    margin-left: 50px; }
+
+/*pregunta del dia*/
+.white {
+  padding: 10px;
+  background-color: #E6E6E6;
+  border: 3px dotted gray; }
+
+/*pregunta del dia*/
+.img9 {
+  width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
