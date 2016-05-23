@@ -94,6 +94,241 @@ footer {
 img {
   width: 100%; }
 
+/*home*/
+/*titular*/
+h1 {
+  font-size: 3em; }
+
+.subtitulo a {
+  text-decoration: none;
+  margin-left: 20px;
+  color: #585858; }
+.subtitulo ul {
+  display: inline-block; }
+.subtitulo li {
+  display: inline-block;
+  margin-right: 5px;
+  line-height: 1; }
+
+.susbe {
+  width: 100px;
+  height: 100px; }
+
+.susbe1 {
+  width: 130px;
+  height: 50px; }
+
+/*reportajes*/
+#reportajes {
+  margin-top: 30px; }
+
+/*principal*/
+.img-principal {
+  position: relative;
+  width: 100%; }
+
+.principal a {
+  text-decoration: none;
+  color: #FFFFFF; }
+.principal h2, .principal h3 {
+  position: relative;
+  width: 90%;
+  bottom: 130;
+  left: 20px;
+  text-shadow: 1px 2px #000000; }
+
+/*portada2*/
+.portada2 {
+  margin-top: -100px; }
+
+/*columnistas*/
+.gc {
+  background-color: #E6E6E6;
+  padding-bottom: 30px; }
+
+#columnistas {
+  margin-top: -50px;
+  color: #000000; }
+  #columnistas img {
+    width: 100px;
+    height: 110px;
+    padding: 6px;
+    background-color: #FFFFFF; }
+
+.right {
+  margin-left: 120px; }
+
+/*seccion otras noticias*/
+#otrasnoticias a {
+  text-decoration: none;
+  color: #FFFFFF; }
+
+.espacio {
+  margin-right: 20px; }
+
+.espacio2 {
+  margin-top: 20px; }
+
+.cuadro {
+  padding: 5px 0px;
+  border: 1px solid #E6E6E6;
+  height: 330px; }
+  .cuadro .sub {
+    position: relative;
+    width: 90%;
+    bottom: 90;
+    left: 10px;
+    text-shadow: 1px 2px #000000; }
+
+.red {
+  color: #FF0000; }
+
+/*imagenes noticias*/
+.img4 {
+  position: relative;
+  width: 100%;
+  height: 200px; }
+
+.sub1, .sub2, .sub3, .sub4 {
+  position: relative;
+  color: #000000; }
+
+.sub1 {
+  bottom: 50px; }
+
+.sub2 {
+  bottom: 40px; }
+
+.sub3 {
+  bottom: 70px; }
+
+.sub4 {
+  bottom: 80px; }
+
+/*imagen peluqueria*/
+.img5 {
+  height: 660px; }
+
+/*seccion ultimas noticias*/
+/*ultimasnoticias*/
+h5 {
+  color: #A4A4A4; }
+
+.articulo {
+  border-bottom: 1px solid #A4A4A4;
+  margin-bottom: 20px; }
+  .articulo p {
+    font-size: 12px; }
+  .articulo h4 {
+    font-weight: bold; }
+  .articulo .texto {
+    font-size: 14px; }
+
+/*redes sociales */
+.subtitulo2 {
+  margin-top: 20px;
+  margin-left: -40px; }
+  .subtitulo2 a {
+    text-decoration: none;
+    color: #585858; }
+  .subtitulo2 ul {
+    display: inline-block; }
+  .subtitulo2 li {
+    display: inline-block;
+    margin-right: 8px;
+    line-height: 1; }
+  .subtitulo2 .fa {
+    color: #FF0000;
+    font-size: 20px; }
+
+.img6 {
+  width: 200px;
+  height: 140px; }
+
+/*inicio columna2 */
+/*suscribete */
+.suscribete {
+  background-color: #E6E6E6;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+/*aweita */
+.aweita {
+  border: 1px solid #000000;
+  padding: 10px;
+  padding-left: 30px; }
+  .aweita p {
+    font-weight: bold;
+    font-size: 12px; }
+  .aweita span {
+    color: purple; }
+
+/*fotos destacadas */
+.destacadas {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+  .destacadas p {
+    font-weight: bold;
+    font-size: 12px; }
+
+.img77 {
+  border: 2px solid #585858;
+  width: 100%;
+  height: 160px; }
+
+.img7 {
+  border: 2px solid #585858;
+  width: 100%; }
+
+.lin {
+  border-bottom: 1px solid #E6E6E6; }
+
+/*especiales */
+.especiales {
+  margin-bottom: 30px; }
+
+.imag8 {
+  width: 100%; }
+
+.subtitulo3 {
+  margin-bottom: 30px; }
+  .subtitulo3 p {
+    padding: 5px;
+    background-color: whitesmoke;
+    width: 70%;
+    margin-left: 50px; }
+
+/*carlincatura*/
+/*nuestros blogueros*/
+.blog a {
+  text-decoration: none;
+  color: #000000; }
+
+/*edicion impresa*/
+.edicion {
+  margin-bottom: 30px; }
+
+/*infografias*/
+.infografias {
+  margin-bottom: 30px; }
+  .infografias p {
+    padding: 5px;
+    background-color: whitesmoke;
+    width: 70%;
+    margin-left: 50px; }
+
+/*pregunta del dia*/
+.white {
+  padding: 10px;
+  background-color: #E6E6E6;
+  border: 3px dotted #585858; }
+
+/*wapa*/
+.img10 {
+  width: 100px;
+  height: 150px; }
+
 .cuadros {
   margin: 0px; }
   .cuadros .cuadro {
@@ -189,5 +424,23 @@ img {
   .plomo1:hover {
     background-color: #F2FAF1;
     border: 1px solid #D0CED6; }
+
+/*contactenos*/
+.min {
+  font-size: 13px; }
+
+.form-horizontal, .destin {
+  margin-top: 30px; }
+
+.checkbox {
+  font-size: 15px; }
+
+.bgb {
+  background-color: #E6E6E6; }
+
+.boton {
+  margin-left: 270px;
+  background-color: #000000;
+  color: #FFFFFF; }
 
 /*# sourceMappingURL=main.css.map */
