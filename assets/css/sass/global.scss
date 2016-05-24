@@ -1,6 +1,8 @@
  header{
-	background-color:$grey-claro;
 	padding:10px 0px;
+	.gc{
+		padding:5px;
+	}
 }
 .barner{
 	margin-bottom:10px;
@@ -88,7 +90,6 @@ ul{
 	}
 }
 footer{
-	background-color:$grey-claro;
 	padding:20px 0px;
 	span{
 		color:#888C8C;
@@ -103,6 +104,9 @@ footer{
 			color:#888C8C;
 			font-size: 12px;
 		}
+	}
+	.gc{
+		padding:10px;
 	}
 }
 img{
