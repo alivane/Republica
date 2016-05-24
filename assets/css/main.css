@@ -135,16 +135,16 @@ h1 {
 .principal a {
   text-decoration: none;
   color: #FFFFFF; }
-.principal h2, .principal h3 {
+.principal h4, .principal h3 {
   position: relative;
   width: 90%;
-  bottom: 130;
+  bottom: 120px;
   left: 20px;
   text-shadow: 1px 2px #000000; }
 
 /*portada2*/
 .portada2 {
-  margin-top: -100px; }
+  margin-top: -80px; }
 
 /*columnistas*/
 .gc {
@@ -466,7 +466,7 @@ h5 {
   background-color: #E6E6E6; }
 
 .boton {
-  left: 400px;
+  left: 300px;
   width: 150px;
   background-color: #000000;
   color: #FFFFFF; }
