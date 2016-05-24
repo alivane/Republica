@@ -18,6 +18,9 @@ h1{
 		line-height: 1;
 	}
 }
+.redes{
+	width: 30px;
+}
 .susbe{
 	width:100px;
 	height:100px;
@@ -131,7 +134,7 @@ h5{
 }
 .articulo{
 	border-bottom: 1px solid $grismedio;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 	p{
 		font-size: 12px;
 	}
@@ -225,8 +228,6 @@ h5{
 	margin-left:50px;
 	}
 }
-/*carlincatura*/
-
 /*nuestros blogueros*/
 .blog{
 	a {text-decoration: none;

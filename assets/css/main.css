@@ -92,7 +92,6 @@ footer {
       font-size: 12px; }
 
 img {
-  margin-top: 100px;
   width: 100%; }
 
 /*home*/
@@ -110,6 +109,9 @@ h1 {
   display: inline-block;
   margin-right: 5px;
   line-height: 1; }
+
+.redes {
+  width: 30px; }
 
 .susbe {
   width: 100px;
@@ -217,7 +219,7 @@ h5 {
 
 .articulo {
   border-bottom: 1px solid #A4A4A4;
-  margin-bottom: 20px; }
+  margin-bottom: 40px; }
   .articulo p {
     font-size: 12px; }
   .articulo h4 {
@@ -300,7 +302,6 @@ h5 {
     width: 70%;
     margin-left: 50px; }
 
-/*carlincatura*/
 /*nuestros blogueros*/
 .blog a {
   text-decoration: none;
@@ -439,7 +440,8 @@ h5 {
   background-color: #E6E6E6; }
 
 .boton {
-  margin-left: 270px;
+  left: 400px;
+  width: 150px;
   background-color: #000000;
   color: #FFFFFF; }
 
