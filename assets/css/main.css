@@ -92,6 +92,7 @@ footer {
       font-size: 12px; }
 
 img {
+  margin-top: 100px;
   width: 100%; }
 
 /*home*/
@@ -326,7 +327,6 @@ h5 {
 
 /*wapa*/
 .img10 {
-  width: 100px;
   height: 150px; }
 
 .cuadros {
