@@ -259,3 +259,10 @@ h5{
 	height: 150px;
 	
 }
+.articulo{
+	img{
+		&:hover{
+			margin-top:-10px;
+		}
+	}
+}
