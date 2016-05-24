@@ -330,6 +330,11 @@ h5 {
 .img10 {
   height: 150px; }
 
+.articulo img:hover {
+  margin-top: -10px; }
+.articulo i {
+  color: #FF0000; }
+
 .cuadros {
   margin: 0px; }
   .cuadros .cuadro {
