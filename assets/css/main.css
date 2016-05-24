@@ -1,6 +1,7 @@
 header {
-  background-color: #CED2D2;
   padding: 10px 0px; }
+  header .gc {
+    padding: 5px; }
 
 .barner {
   margin-bottom: 10px; }
@@ -78,7 +79,6 @@ ul {
     height: auto; }
 
 footer {
-  background-color: #CED2D2;
   padding: 20px 0px; }
   footer span {
     color: #888C8C; }
@@ -90,6 +90,8 @@ footer {
     footer ul li {
       color: #888C8C;
       font-size: 12px; }
+  footer .gc {
+    padding: 10px; }
 
 img {
   width: 100%; }
@@ -336,16 +338,16 @@ h5 {
   color: #FF0000; }
 
 .cuadros {
-  margin: 0px; }
+  margin-left: 30px; }
   .cuadros .cuadro {
     border: 1px solid #888C8C;
     text-align: center;
     padding: 10px;
     margin-bottom: 10px;
-    height: 200px; }
+    height: 230px; }
     .cuadros .cuadro .blogc {
-      margin-top: 47px;
       font-size: 10px;
+      margin-top: 47px;
       background-color: #CED2D2;
       padding: 10px;
       text-align: left;
@@ -359,13 +361,32 @@ h5 {
     text-align: center;
     padding: 10px;
     margin-bottom: 10px;
-    height: 200px; }
+    height: 230px; }
     .cuadros .cuadro1 .blogc {
       background-color: #CED2D2;
       padding: 10px;
       text-align: left;
-      font-size: 10px; }
+      font-size: 10px;
+      height: 79px;
+      margin-top: -3px; }
       .cuadros .cuadro1 .blogc img {
+        padding: 5px;
+        height: 60px;
+        background-color: white; }
+  .cuadros .cuadro2 {
+    border: 1px solid #888C8C;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 230px; }
+    .cuadros .cuadro2 .blogc {
+      font-size: 10px;
+      margin-top: 32px;
+      background-color: #CED2D2;
+      padding: 10px;
+      text-align: left;
+      font-size: 10px; }
+      .cuadros .cuadro2 .blogc img {
         padding: 5px;
         height: 60px;
         background-color: white; }

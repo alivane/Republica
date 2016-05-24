@@ -1,16 +1,26 @@
 .cuadros{
-	margin:0px;
+	margin-left:30px;
 	.cuadro{
 		@include cuadro();
 		.blogc{
-			margin-top:47px;
 			font-size: 10px;
+			margin-top:47px;
 			@include blog();
 		}
 	}
 	.cuadro1{
 		@include cuadro();
 		.blogc{
+			@include blog();
+			height:79px;
+			margin-top:-3px;
+		}
+	}
+	.cuadro2{
+		@include cuadro();
+		.blogc{
+			font-size: 10px;
+			margin-top:32px;
 			@include blog();
 		}
 	}
